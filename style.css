@@ -126,7 +126,7 @@ body{
     left: 0;
     
 }
-.active{background: rgb(0, 0, 0);}
+.dot:active{background: rgb(224, 21, 21);}
 
 
 .caption{
